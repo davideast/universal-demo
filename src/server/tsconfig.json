@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "../../dist-server",
+    "module": "commonjs",
+    "target": "es2015"
+  }
+}
